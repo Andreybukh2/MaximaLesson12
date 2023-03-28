@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08a79f0d-fa38-447d-9f79-54cbc93223f2" name="Changes" comment="Task1">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Consumers/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Consumers/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FunctionalInterface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FunctionalInterface/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework15/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework15/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework15/StreamDistinctInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework15/StreamDistinctStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework15/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lambda/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lambda/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Streams/Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Streams/StreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Streams/StreamTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Streams/StreamTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NWO1dKqFRFzWPDzLsEU3T0d0JO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "extract.method.default.visibility": "private",
+    "last_opened_file_path": "C:/Users/Andbu/IdeaProjects/CourseAlishevBeginner",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Andbu\IdeaProjects\MaximaLesson12\src\main\java\Consumer" />
+      <recent name="C:\Users\Andbu\IdeaProjects\MaximaLesson12\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Task1">
+    <configuration name="Order" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework15.Order" />
+      <module name="MaximaLesson12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamDistinctStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework15.StreamDistinctStr" />
+      <module name="MaximaLesson12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework15.Task1" />
+      <module name="MaximaLesson12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework15.Task3" />
+      <module name="MaximaLesson12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="MaximaLesson12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.StreamDistinctStr" />
+        <item itemvalue="Application.Order" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Task3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08a79f0d-fa38-447d-9f79-54cbc93223f2" name="Changes" comment="" />
+      <created>1679776160789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679776160789</updated>
+      <workItem from="1679776162849" duration="3245000" />
+      <workItem from="1679837587664" duration="30710000" />
+    </task>
+    <task id="LOCAL-00001" summary="Task1">
+      <created>1679997324937</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679997324937</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task1" />
+  </component>
+</project>
